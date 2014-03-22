@@ -5,7 +5,7 @@ window.fbAsyncInit = function () {
     });
 
     FB.init({
-        appId: '520153294767504', // App ID or 471412149640816
+        appId: '625294597551271', // App ID or 471412149640816
         channelUrl: 'http://www.victorlourng.com/sociogram/channel.html', // Channel File
         status: true, // check login status
         cookie: true, // enable cookies to allow the server to access the session
